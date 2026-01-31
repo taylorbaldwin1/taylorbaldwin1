@@ -1,31 +1,26 @@
 👋 <b>Hi, I'm Taylor Baldwin</b>
 
-I'm a Data Analyst passionate about transforming complex data into actionable insights through visualization and analysis.
+<b>Data scientist–in-training</b> with 3+ years of experience designing and managing end-to-end data pipelines, from data acquisition and cleaning to modeling, visualization, and stakeholder reporting. Strong background in translating complex, high-dimensional data into actionable insights using Python, SQL, Power BI, and Tableau, with applied experience in health research and program evaluation. Currently pursuing an <b>M.S. in Applied Data Science</b> to deepen expertise in machine learning, statistical modeling, and scalable analytics. Committed to rigorous data governance, reproducibility, and ethical use of data in real-world decision making.
 
-🔍 <b>About Me</b>
 
-I'm a data analyst with experience in healthcare research and program evaluation. Currently pursuing my M.S. in Applied Data Science at UNC Chapel Hill, I combine my work experience with my background in Information Science and UX Design to create user-friendly dashboard reports and analytics that drive decision-making. My academic background at UNC has instilled a strong foundation in data governance principles, emphasizing the importance of data privacy, accuracy, and ethical handling. This training has shaped my approach to data-driven work, ensuring that I uphold high standards of integrity, transparency, and accountability in every project. 
-
-💼 <b>Work Experience</b>
-
-Currently serving as a <b>Data Analyst</b> at <b>UNC School of Medicine - Abacus Evaluation</b>, where I:
+💼 <b> What I Work On </b>
 <ul>
-<li>Leads survey development and comprehensive data analysis across multiple projects</li>
-<li>Manages full data project lifecycles from design to dissemination</li>
-<li>Prepares analytics and visualizations to create impactful dashboards, reports, and presentations using R, Power BI, and Adobe InDesign</li>
-<li>Presents research findings at professional conferences, translating technical analysis for diverse audiences</li>
-<li>Implements and oversees data tracking system, streamlining key performance indicator (KPI) monitoring and cross-program reporting</li>
-<li>Leads key informant interviews with subject matter experts from external organizations to obtain in-depth qualitative data relevant to the research topic.</li>
+<li>Data cleaning, validation, and reproducible pipelines</li>
+<li>Predictive modeling and statistical analysis</li>
+<li>Database design and migration from legacy systems</li>
+<li>Dashboards and visual analytics for decision-makers</li>
+<li>Ethical, governed use of data in public health and social impact work</li>
 </ul>
 🛠️ <b>Technical Skills</b>
 
 
 | Category | Skills |
 | -------- | ------ |
-| Data Analysis & Visualization |R, Microsoft Power BI, Tableau, Python |
-| Database Management | SQL, REDCap, Microsoft Excel |
+| Programming Languages | Python, SQL, R, Julia |
+| Data Visualization & Dashboard Development | Microsoft Power BI, Tableau, D3, Adobe Creative Cloud Suite, Microsoft Excel |
+| Database Management | PostgreSQL, REDCap, Microsoft Access |
 | Design & Presentation | Adobe InDesign, Microsoft PowerPoint, Microsoft Power BI |
-| Project Management | Asana |
+| Soft Skills | Cross-functional collaboration, Iterative design, Project management, Technical communication that drives action towards achieving impact or goals |
 
 
 🎓 <b>Education</b>
@@ -55,6 +50,6 @@ University of North Carolina at Chapel Hill
 </ul>
 📫 <b>Connect With Me</b>
 
-📧 Email: taylorbaldwin531@gmail.com | 📱 Phone: 919-302-3336
+📧 Email: taylorbaldwin531@gmail.com
 
 <a href="https://www.linkedin.com/in/taylor-baldwin-034a30174/"><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/800px-LinkedIn_icon.svg.png" alt="Taylor Baldwin | LinkedIn" width="35px"/></a>
