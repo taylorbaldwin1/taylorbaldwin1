@@ -16,10 +16,8 @@
 
 | Category | Skills |
 | -------- | ------ |
-| Programming Languages |  Python (Tensorflow, PySpark, Pandas, scikit-learn),
-SQL, R, Julia|
-| Database & Cloud Management | Microsoft Fabric, Microsoft Azure, PostgreSQL,
-Microsoft Access, REDCap |
+| Programming Languages |  Python (Tensorflow, PySpark, Pandas, scikit-learn), SQL, R, Julia|
+| Database & Cloud Management | Microsoft Fabric, Microsoft Azure, PostgreSQL, Microsoft Access |
 | Data Analysis | Exploratory data analysis, Feature engineering, Model building |
 | Data Visualization & Dashboard Development | Microsoft Power BI, Tableau, D3, Adobe Creative Cloud Suite, Microsoft Excel |
 | Soft Skills | Cross-functional collaboration, Iterative design, Project management, Technical communication that drives action towards achieving impact or goals |
@@ -45,11 +43,6 @@ University of North Carolina at Chapel Hill
 <li>Lean Six Sigma Trained</li>
 </ul>
 
-<b>Recent Presentations</b>
-<ul>
-<li>"A Collaborative Approach to Evaluating a Collective Impact Initiative: The Carolina Across 100 'Our State, Our Work' Program" (AEA Conference, 2024)</li>
-<li>"Evaluation of Behavioral Determinants of At-Home Testing and Socio-Behavioral Mechanism of COVID-19 Community Transmission within the RADx-UP Initiative" (APHA Annual Meeting, 2023)</li>
-</ul>
 📫 <b>Connect With Me</b>
 
 📧 Email: taylorbaldwin531@gmail.com
