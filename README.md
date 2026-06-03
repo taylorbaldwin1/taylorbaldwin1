@@ -1,6 +1,6 @@
 <b>I'm Taylor Baldwin</b>
 
-<b>Data scientist–in-training</b> with 3+ years of experience designing and managing end- to-end data pipelines—from data acquisition and cleaning to modeling, visualization, and stakeholder reporting. Strong background in translating complex, high-dimensional data into actionable insights using Python, Microsoft Fabric, Power BI, and Tableau, with applied experience in health research and program evaluation Currently pursuing an <b>M.S. in Applied Data Science</b> to deepen expertise in machine learning, statistical modeling, and scalable analytics. Committed to rigorous data governance, reproducibility, and ethical use of data in real-world decision making.
+<b>Data scientist–in-training</b> with 3+ years of experience designing and managing end- to-end data pipelines—from data acquisition and cleaning to modeling, visualization, and stakeholder reporting. Strong background in translating complex, high-dimensional data into actionable insights using Python, Microsoft Fabric, Power BI, and Tableau, with applied experience in health research and program evaluation. Earned a <b>Master's in Applied Data Science</b> to deepen expertise in machine learning, statistical modeling, and scalable analytics. Committed to rigorous data governance, reproducibility, and ethical use of data in real-world decision making.
 
 
 <b> What I Work On </b>
